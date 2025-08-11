@@ -1,5 +1,5 @@
-# Meta XR SDK Occlusion algorithm (Unity 6+ )
-Removed the limitation of Meta Quest SDK occlusion system where game objects won't render beyond depth sensor range
+# Meta XR SDK Occlusion algorithm bug fix (Unity 6+ )
+**Removed the limitation of Meta Quest SDK occlusion system where game objects won't render beyond depth sensor range**
 
 ## Use in a shader 
 ```
